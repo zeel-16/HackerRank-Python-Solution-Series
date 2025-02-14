@@ -2,6 +2,7 @@
 ### 🏆 A Collection of My Solved Python Challenges from HackerRank  
 
 ![HackerRank Badge](https://img.shields.io/badge/HackerRank-Python-green?style=for-the-badge&logo=hackerrank)  
+[![Python Badge](https://hrcdn.net/s3_pub/hr-avatars/https://hrcdn.net/fcore/assets/badges/python-f70befd824.svg)](https://www.hackerrank.com/@zeelsimejiya16)  
 
 ---
 
