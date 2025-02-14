@@ -2,8 +2,6 @@
 ### 🏆 A Collection of My Solved Python Challenges from HackerRank  
 
 ![HackerRank Badge](https://img.shields.io/badge/HackerRank-Python-green?style=for-the-badge&logo=hackerrank)  
-[![Python Badge](https://hrcdn.net/s3_pub/hr-avatars/https://hrcdn.net/fcore/assets/badges/python-f70befd824.svg)](https://www.hackerrank.com/@zeelsimejiya16)  
-
 ---
 
 ## 📌 About  
@@ -34,5 +32,5 @@ Each problem includes **well-commented code** for easy understanding.
 ## 🔧 How to Use?  
 1️⃣ **Clone the Repository**  
 ```bash
-git clone https://github.com/yourusername/hackerrank-python-solutions.git
+git clone https://github.com/zeel-16/hackerrank-python-solutions.git
 cd hackerrank-python-solutions
