@@ -8,10 +8,10 @@ This index categorizes all problems into **Easy, Medium, and Hard** levels.
 ## 🟢 Easy Problems  
 | 🔢 Sr. No | 📝 Problem Name | 📁 Solution Link |
 |-----------|---------------|----------------|
-| 1️⃣ | Say Hello, World! | [Ea_Say_Hello_World.py](./Ea_Say_Hello_World.py) |
-| 2️⃣ | Python If-Else | [Eb_Python_If_Else.py](./Eb_Python_If_Else.py) |
-| 3️⃣ | Arithmetic Operators | [Ec_Arithmetic_Operators.py](./Ec_Arithmetic_Operators.py) |
-| 4️⃣ | Python Division | [Ed_Python_Division.py](./Ed_Python_Division.py) |
+| 1️⃣ | Say Hello, World! | [Ea_Say_Hello_World.py](./Ea_Say%20Hello,%20World!%20With%20Python.py) |
+| 2️⃣ | Python If-Else | [Eb_Python_If_Else.py](./Eb_Python%20If-Else.py) |
+| 3️⃣ | Arithmetic Operators | [Ec_Arithmetic_Operators.py](./Ec_Arithmetic%20Operators.py) |
+| 4️⃣ | Python Division | [Ed_Python_Division.py](./Ed_PythonDivision.py) |
 | 5️⃣ | Loops | [Ee_Loops.py](./Ee_Loops.py) |
 | 6️⃣ | Print Function | [Ef_Print_Function.py](./Ef_Print_Function.py) |
 | 7️⃣ | List Comprehensions | [Eg_List_Comprehensions.py](./Eg_List_Comprehensions.py) |
